@@ -42,8 +42,6 @@ Stylesheet:
   - landcover.mss
   - water.mss
   - water-features.mss
-  - road-colors-generated.mss
-  - roads.mss
   - power.mss
   - placenames.mss
   - buildings.mss
